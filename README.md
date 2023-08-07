@@ -1,2 +1,2 @@
-# Full pants of asm
+# Проекты на ассемблере NASM
 
